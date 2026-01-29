@@ -2,9 +2,10 @@
 #Q1:
 #This code to print Welcome sentence 
 print("Welcome to Python Programming!")
-#This code to print my name and the course 
+
+#This code to print my name and the course name
 print("My name's Layali")
-print("This is a paython code")
+print("Course: Paython Programming")
 
 #Q2:
 student_name="Alice"
@@ -15,6 +16,10 @@ student_info={"id": 101, "year": 2}
 skills ={"Python", "SQL"}
 is_enrolled=True
 graduation_date=None
+"""
+Here the print of 
+the variable
+"""
 print(student_name)
 print(type(student_name))
 print(age)
